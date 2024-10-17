@@ -3,7 +3,7 @@ enable-magisk-update = true
 # ReVanced Extended
 [YouTube-Extended]
 app-name = "YouTube"
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/youtube-19-41-39-release/"
 uptodown-dlurl = "https://youtube.uptodown.com/android"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
